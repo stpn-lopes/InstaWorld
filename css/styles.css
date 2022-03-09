@@ -1,3 +1,5 @@
+/*pré definições globais*/
+
 * {
     padding: 0;
     margin: 0;
@@ -17,7 +19,6 @@ body {
 }
 
 
-
 #instaworld-wrapper {
     display: flex;
     justify-content: start;
@@ -31,7 +32,8 @@ body {
 }
 
 
-
+/*definindo e ajustando a imagem ilustrativa e o slogan 
+no primeiro container de elemento*/
 #astronauta {
     display: flex;
     align-items: center;
@@ -59,7 +61,7 @@ body {
 }
 
 
-
+/*ajustando o segundo container de elementos*/
 .right {
     display: flex;
     align-items: center; /*horizontal*/
@@ -130,6 +132,7 @@ body {
     font-weight: bold;
 }
 
+/*definições dos botões*/
 .download {
     display: flex;
     width: 100%;
@@ -163,7 +166,7 @@ body {
 }
 
 
-
+/*ajustando visualizações da página, para se tornar responsiva*/
 @media (max-width: 1200px) {
     .instaworld-wrapper {
         width: 80%;
