@@ -8,21 +8,21 @@ Este projeto (intitulado por mim mesma de "InstaWorld" haha) foi criado com os c
 
 ### Tecnologias utilizadas 
 
-:black_circle: &nbsp;![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=1f004e)&nbsp; :black_circle: &nbsp; ![Git](https://img.shields.io/badge/-Git-blue?style=for-the-badge&logo=git&labelColor=1f004e)&nbsp;&nbsp; :black_circle:&nbsp; ![HTML](https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html5&labelColor=1f004e)  &nbsp; :black_circle: &nbsp;![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=1f004e) 
+:white_circle: &nbsp;![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=purple) <br> :white_circle: &nbsp; ![Git](https://img.shields.io/badge/-Git-blue?style=for-the-badge&logoColor=white&logo=git&labelColor=purple) <br> :white_circle:&nbsp; ![HTML](https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html5&logoColor=white&labelColor=purple) <br> :white_circle: &nbsp;![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=purple) 
 
 
 
-###Conheça a interface do       ![text-1646796624616](../../Users/vladimirisidóriodasi/Downloads/text-1646796624616.png)
+## Conheça a interface do &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.fontspace.com/category/tattoo"><img src="https://see.fontimg.com/api/renderfont4/ZVGqm/eyJyIjoiZnMiLCJoIjo2MiwidyI6MTAwMCwiZnMiOjYyLCJmZ2MiOiIjRkZGQUZBIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SW5zdGFXb3JsZA/amsterdam.png" alt="Tattoo fonts"></a>
 
-[x] Versão Desktop
+### Versão Desktop
 
 ![example_desktop](img/examples/example_desktop.png)
 
-[ x ] Versão Mobile
+### Versão Mobile
 
 ![example_mobile](img/examples/example_mobile.png)
 
-[ x ] Versão Tablet
+### Versão Tablet
 
 ![example_tablet](img/examples/example_tablet.png)![example_tablet_horizontal](img/examples/example_tablet_horizontal.png)
 
@@ -36,9 +36,10 @@ Feito com ❤️ por <br> <br>
 </div>
 
 ## 
-<div align=center>	
-​	
+<div align=right>	
+
 [![Linkedin Badge](https://img.shields.io/badge/-Stephany-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stpn-lopes/)](https://www.linkedin.com/in/stpn-lopes/) 
 [![Gmail Badge](https://img.shields.io/badge/-stpn.lopes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stpn.lopes@gmail.com)](mailto:stpn.lopes@gmail.com)
-​	
+
+</div>
 </div>
