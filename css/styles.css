@@ -130,33 +130,43 @@ body {
     font-weight: bold;
 }
 
+.download {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 0px;
+}
 
 .divgetapp {
     display: flex;
-    text-align: center;
-    width: 650px;
+    width: 100%;
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    margin-top: 69%;
-    margin-left: 45%;
-    position: absolute;
+    margin-left: -255px;
+    margin-top: 480px;
 }
 
-.divgetapp div a img {
-    height: 60px;
-    display: inline;
+.app-download {
+    height: 38px;
+    width: 130px;
+    background-size: cover;
 }
 
-#apple {
-    height: 69px;
-    margin-bottom: -5px;
+.app-download:nth-child(1) {
+    background-image: url('/img/app.store.png');
 }
+
+.app-download:nth-child(2) {
+    background-image: url('/img/google_play.png');
+}
+
 
 
 @media (max-width: 1200px) {
     .instaworld-wrapper {
-        width: 70%;
+        width: 80%;
     }
     .divImg {
         width:55%;
@@ -170,44 +180,12 @@ body {
         margin-right: 390px;
         width: 190px;
     }
-    .divgetapp {
-        display: flex;
-        margin: 0;
-        margin-top: 85%;
-    
-        min-width: 300px;
-        position: none;
-    }
 }
 
-@media (max-width: 980px) {
-    .instaworld-wrapper {
-        width: 70%;
-    }
-    .divImg {
-        width:50%;
-        margin-bottom: 30%;
-    }
-    .text p {
-        font-size: 17px;
-    }
-    #note { 
-        margin-top: 390px;
-        margin-right: 80px;
-        width: 120px;
-    }
-    .divgetapp {
-        position: absolute;
-        margin-top: 100%;
-        margin-left: 22%;
-        min-width: 300px;
-        position: none;
-    }
-}
 
-@media (max-width: 810px) {
+@media (max-width: 960px) {
     .instaworld-wrapper {
-        width: 45%;
+        width: 65%;
     }
     .astronauta, .divImg {
         display: none;
@@ -217,41 +195,15 @@ body {
         display: none;
     }
     .divgetapp {
-        display: flex;
-        margin: 0;
-        margin-top: 530px;
-        margin-left: -105px;
-        position: none;
+        margin-right: 255px;
     }
     .divlogo {
         padding-right: 10px;
     }
 }
 
-@media (max-width: 760px) {
-    .instaworld-wrapper {
-        width: 45%;
-    }
-    .astronauta, .divImg {
-        display: none;
-        position: none;
-    }
-    .note, .text, .text.p {
-        display: none;
-    }
-    .divgetapp {
-        display: flex;
-        margin: 0;
-        margin-top: 515px;
-        margin-left: -100px;
-        position: absolute;
-    }
-    .divlogo {
-        padding-right: 10px;
-    }
-}
 
-@media (max-width: 675px) {
+@media (max-width: 650px) {
     .instaworld-wrapper {
         width: 45%;
     }
@@ -261,63 +213,11 @@ body {
     }
     .note, .text, .text.p {
         display: none;
-    }
-    .divgetapp {
-        display: flex;
-        position: none;
-        margin: 140% 0 0 -150px;
-    }
-    .divlogo {
-        display: flex;
-        width: 65%;
-    }
-
-@media (max-width: 500px) {
-    .instaworld-wrapper {
-        width: 45%;
-    }
-    .astronauta, .divImg {
-        display: none;
-        position: none;
-    }
-    .note, .text, .text.p {
-        display: none;
-    }
-    .divgetapp {
-        display: flex;
-        position: none;
-        margin: 170% -70% 0 -180px;
     }
     .divgroup {
         border: transparent;
     }
-    .divlogo {
-        display: flex;
-        width: 65%;
-    }
-}
-
-@media (max-width: 400px) {
-    .instaworld-wrapper {
-        width: 45%;
-    }
-    .astronauta, .divImg {
-        display: none;
-        position: none;
-    }
-    .note, .text, .text.p {
-        display: none;
-    }
     .divgetapp {
-        display: flex;
-        position: none;
-        margin: 170% -70% 0 -180px;
-    }
-    .divgroup {
-        border: transparent;
-    }
-    .divlogo {
-        display: flex;
-        width: 65%;
+        margin-right: -55px;
     }
 }
