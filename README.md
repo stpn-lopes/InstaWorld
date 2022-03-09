@@ -38,7 +38,7 @@ Feito com ❤️ por <br> <br>
 ## 
 <div align=right>	
 
-[![Linkedin Badge](https://img.shields.io/badge/-Stephany-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stpn-lopes/)](https://www.linkedin.com/in/stpn-lopes/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stpn-lopes/)](https://www.linkedin.com/in/stpn-lopes/) 
 [![Gmail Badge](https://img.shields.io/badge/-stpn.lopes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stpn.lopes@gmail.com)](mailto:stpn.lopes@gmail.com)
 
 </div>
