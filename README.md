@@ -17,7 +17,7 @@ Este projeto (intitulado por mim mesma de "InstaWorld" haha) foi criado com os c
 				<li><a href="https://github.com/stpn-lopes/InstaWorld/edit/main/README.md#vers%C3%A3o-tablet">Versão tablet</a></li>
 			</ul>
 		</li>
-		<li><a href="">Links Utéis</a></li>
+		<li><a href="https://github.com/stpn-lopes/InstaWorld/edit/main/README.md#%EF%B8%8F-links-%C3%BAteis">Links Utéis</a></li>
 	</ul>
 </div>
 <br> 
@@ -61,9 +61,16 @@ Já na versão mobile, seguindo a lógica da interface original do Instagram, de
 ##
 ### Versão Tablet
 Já na visualização de um tablet, na vertical ficaria assim: <br>
-![example_tablet](img/examples/example_tablet.png)
+
+<div align="center"> 
+	
+![example_tablet](img/examples/example_tablet.png) 
+	
+</div>
+
 <br> 
 E na horizontal: <br>
+
 ![example_tablet_horizontal](img/examples/example_tablet_horizontal.png)
 
 <br> <br>
@@ -72,10 +79,10 @@ E na horizontal: <br>
 ### ✔️ Links Úteis
 
 <ul>
-	<li><a href="https://www.w3schools.com/css/css3_flexbox.asp">CSS3 FlexBpx</a></li>
-	<li><a href="https://developer.mozilla.org/pt-BR/docs/Learn/CSS/First_steps">Primeiros Passos com CSS</a></li>
-	<li><a href="https://www.youtube.com/watch?v=Y9nSfBUhSXs">Aprendendo Flexbox na prática - vídeo</a></li>
-	<li><a href="https://unsplash.com/">Encontrar imagens free</a></li>
+	<li><a href="https://www.w3schools.com/css/css3_flexbox.asp" target="_blank">CSS3 FlexBpx</a></li>
+	<li><a href="https://developer.mozilla.org/pt-BR/docs/Learn/CSS/First_steps" target="_blank">Primeiros Passos com CSS</a></li>
+	<li><a href="https://www.youtube.com/watch?v=Y9nSfBUhSXs" target="_blank">Aprendendo Flexbox na prática - vídeo</a></li>
+	<li><a href="https://unsplash.com/" target="_blank">Encontrar imagens free</a></li>
 </ul>
 
 ##
