@@ -1,20 +1,37 @@
 # Recriando a interface do Instagram
 
-###  🎯 &nbsp; Objetivo
-
 Este projeto (intitulado por mim mesma de "InstaWorld" haha) foi criado com os conhecimentos adquiridos na trilha de cursos do Bootcamp <a href= "https://web.dio.me/track/9fb3f492-ea99-4055-82cb-c364f18706ecBootcamp">HTML Web Developer</a>, proporcionado pela plataforma <a href="https://www.dio.me/sign-in">Digital Innovation One</a>, no qual foi utilizado de FlexBox CSS3 para tornar o site responsivo e para se tornar semelhante a interface do Instagram.
 
-##
+<br> 
 
-### 💻 &nbsp; Tecnologias utilizadas 
+## 📑 Sumário
+
+<div>
+	<ul> 
+		<li> <a href="https://github.com/stpn-lopes/InstaWorld/edit/main/README.md#--tecnologias-utilizadas">Tecnologias usadas</a></li>
+		<li> <a href="https://github.com/stpn-lopes/InstaWorld/edit/main/README.md#--o-que-h%C3%A1-de-diferente-na-interface">O que há de diferente na interface?</a></li>
+		<li> <a href="https://github.com/stpn-lopes/InstaWorld/edit/main/README.md#conhe%C3%A7a-a-interface-do----">A interface do InstaWorld</a>
+			<ul> 
+				<li><a href="https://github.com/stpn-lopes/InstaWorld/edit/main/README.md#vers%C3%A3o-desktop">Versão desktop</a></li>
+				<li><a href="https://github.com/stpn-lopes/InstaWorld/edit/main/README.md#vers%C3%A3o-mobile">Versão mobile</a></li>
+				<li><a href="https://github.com/stpn-lopes/InstaWorld/edit/main/README.md#vers%C3%A3o-tablet">Versão tablet</a></li>
+			</ul>
+		</li>
+		<li><a href="">Links Utéis</a></li>
+	</ul>
+</div>
+<br> 
+
+
+## 💻 &nbsp; Tecnologias utilizadas 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=purple) &nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logoColor=white&logo=git&labelColor=purple) &nbsp;
 ![HTML](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white&labelColor=purple) &nbsp;
 ![CSS](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=purple)
 
-##
+<br>
 
-### 👀 &nbsp; O que há de diferente na Interface?
+## 👀 &nbsp; O que há de diferente na Interface?
 Sou fascinada pelo universo e neste projeto não poderia ser diferente, acabei não resistindo hahaha <br> 
 Baseada na interface do Instagram, desenvolvi o InstaWorld, onde o projeto contém:
 
@@ -28,14 +45,14 @@ Baseada na interface do Instagram, desenvolvi o InstaWorld, onde o projeto cont�
 
 <br> <br>
 
-## Conheça a interface do &nbsp; &nbsp; &nbsp; <a href="https://www.fontspace.com/category/tattoo"><img src="https://see.fontimg.com/api/renderfont4/ZVGqm/eyJyIjoiZnMiLCJoIjo2MiwidyI6MTAwMCwiZnMiOjYyLCJmZ2MiOiIjRkZGQUZBIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SW5zdGFXb3JsZA/amsterdam.png" alt="Tattoo fonts" ></a>
+<h1 align="center"> Conheça a interface do&nbsp; <a href="https://www.fontspace.com/category/tattoo"><img src="https://see.fontimg.com/api/renderfont4/ZVGqm/eyJyIjoiZnMiLCJoIjo2MiwidyI6MTAwMCwiZnMiOjYyLCJmZ2MiOiIjRkZGQUZBIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SW5zdGFXb3JsZA/amsterdam.png" alt="Tattoo fonts" ></a> </h1>
 
-### Versão Desktop
+### 🖥️ Versão Desktop 
 Na versão Desktop, todo o conteúdo está disponivel para visualização, tanto a imagem do astronauta, quanto o slogan. <br>
 ![example_desktop](img/examples/example_desktop.png)
 
 ##
-### Versão Mobile
+### 📲 Versão Mobile
 Já na versão mobile, seguindo a lógica da interface original do Instagram, desenvolveu-se uma interface mais limpa e direta, visto que normalmente os usúarios ao se utilizar de um celular necessitam de algo mais prático.
 <div align=center>
    <img src="img/examples/example_mobile.png"/> 
@@ -50,6 +67,16 @@ E na horizontal: <br>
 ![example_tablet_horizontal](img/examples/example_tablet_horizontal.png)
 
 <br> <br>
+
+##
+### ✔️ Links Úteis
+
+<ul>
+	<li><a href="https://www.w3schools.com/css/css3_flexbox.asp">CSS3 FlexBpx</a></li>
+	<li><a href="https://developer.mozilla.org/pt-BR/docs/Learn/CSS/First_steps">Primeiros Passos com CSS</a></li>
+	<li><a href="https://www.youtube.com/watch?v=Y9nSfBUhSXs">Aprendendo Flexbox na prática - vídeo</a></li>
+	<li><a href="https://unsplash.com/">Encontrar imagens free</a></li>
+</ul>
 
 ##
 
