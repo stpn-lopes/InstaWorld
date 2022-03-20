@@ -8,16 +8,16 @@ Este projeto (intitulado por mim mesma de "InstaWorld" haha) foi criado com os c
 
 <div>
 	<ul> 
-		<li> <a href="https://github.com/stpn-lopes/InstaWorld/edit/main/README.md#--tecnologias-utilizadas">Tecnologias usadas</a></li>
-		<li> <a href="https://github.com/stpn-lopes/InstaWorld/edit/main/README.md#--o-que-h%C3%A1-de-diferente-na-interface">O que há de diferente na interface?</a></li>
-		<li> <a href="https://github.com/stpn-lopes/InstaWorld/edit/main/README.md#conhe%C3%A7a-a-interface-do----">A interface do InstaWorld</a>
+		<li> <a href="https://github.com/stpn-lopes/InstaWorld#--tecnologias-utilizadas">Tecnologias usadas</a></li>
+		<li> <a href="https://github.com/stpn-lopes/InstaWorld#--o-que-h%C3%A1-de-diferente-na-interface">O que há de diferente na interface?</a></li>
+		<li> <a href="https://github.com/stpn-lopes/InstaWorld#-conhe%C3%A7a-a-interface-do--">A interface do InstaWorld</a>
 			<ul> 
-				<li><a href="https://github.com/stpn-lopes/InstaWorld/edit/main/README.md#vers%C3%A3o-desktop">Versão desktop</a></li>
-				<li><a href="https://github.com/stpn-lopes/InstaWorld/edit/main/README.md#vers%C3%A3o-mobile">Versão mobile</a></li>
-				<li><a href="https://github.com/stpn-lopes/InstaWorld/edit/main/README.md#vers%C3%A3o-tablet">Versão tablet</a></li>
+				<li><a href="https://github.com/stpn-lopes/InstaWorld#%EF%B8%8F-vers%C3%A3o-desktop">Versão desktop</a></li>
+				<li><a href="https://github.com/stpn-lopes/InstaWorld#-vers%C3%A3o-mobile">Versão mobile</a></li>
+				<li><a href="https://github.com/stpn-lopes/InstaWorld#vers%C3%A3o-tablet">Versão tablet</a></li>
 			</ul>
 		</li>
-		<li><a href="https://github.com/stpn-lopes/InstaWorld/edit/main/README.md#%EF%B8%8F-links-%C3%BAteis">Links Utéis</a></li>
+		<li><a href="https://github.com/stpn-lopes/InstaWorld#%EF%B8%8F-links-%C3%BAteis">Links Utéis</a></li>
 	</ul>
 </div>
 <br> 
@@ -73,7 +73,7 @@ E na horizontal: <br>
 
 ![example_tablet_horizontal](img/examples/example_tablet_horizontal.png)
 
-<br> <br>
+<br>
 
 ##
 ### ✔️ Links Úteis
