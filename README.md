@@ -79,7 +79,7 @@ E na horizontal: <br>
 ### ✔️ Links Úteis
 
 <ul>
-	<li><a href="https://www.w3schools.com/css/css3_flexbox.asp" target="_blank">CSS3 FlexBpx</a></li>
+	<li><a href="https://www.w3schools.com/css/css3_flexbox.asp" target="_blank">CSS3 FlexBox</a></li>
 	<li><a href="https://developer.mozilla.org/pt-BR/docs/Learn/CSS/First_steps" target="_blank">Primeiros Passos com CSS</a></li>
 	<li><a href="https://www.youtube.com/watch?v=Y9nSfBUhSXs" target="_blank">Aprendendo Flexbox na prática - vídeo</a></li>
 	<li><a href="https://unsplash.com/" target="_blank">Encontrar imagens free</a></li>
