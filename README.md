@@ -3,6 +3,7 @@
 Este projeto (intitulado por mim mesma de "InstaWorld" haha) foi criado com os conhecimentos adquiridos na trilha de cursos do Bootcamp <a href= "https://web.dio.me/track/9fb3f492-ea99-4055-82cb-c364f18706ecBootcamp">HTML Web Developer</a>, proporcionado pela plataforma <a href="https://www.dio.me/sign-in">Digital Innovation One</a>, no qual foi utilizado de FlexBox CSS3 para tornar o site responsivo e para se tornar semelhante a interface do Instagram.
 
 <br> 
+<img align="right" src="https://github.com/stpn-lopes/InstaWorld/blob/main/img/astronauta_segurando_planetas.png" width=""/>
 
 ## 📑 Sumário
 
